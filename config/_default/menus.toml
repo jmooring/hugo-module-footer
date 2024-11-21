@@ -1,0 +1,37 @@
+# Consulting services
+
+[[footer]]
+name = 'Consulting Services'
+pageRef = "/services/consulting"
+weight = 10
+
+[[footer]]
+name = 'Azure DevOps Migration'
+parent = 'Consulting Services'
+pageRef = '/services/consulting/azure-devops-migration'
+weight = 10
+
+[[footer]]
+name = ' Business Agility Consultancy'
+parent = 'Consulting Services'
+pageRef = '/services/consulting/business-agility-consultancy'
+weight = 20
+
+# Mentoring services
+
+[[footer]]
+name = 'Mentoring Services'
+pageRef = "/services/mentoring"
+weight = 20
+
+[[footer]]
+name = 'Product Development Mentoring Program'
+parent = 'Mentoring Services'
+pageRef = '/services/mentoring/product-development-mentoring-program'
+weight = 10
+
+[[footer]]
+name = 'Product Management Mentor Program'
+parent = 'Mentoring Services'
+pageRef = '/services/mentoring/product-management-mentor-program'
+weight = 20
