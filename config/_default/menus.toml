@@ -2,36 +2,36 @@
 
 [[footer]]
 name = 'Consulting Services'
-pageRef = "/services/consulting"
+pageRef = "/capabilities"
 weight = 10
 
 [[footer]]
 name = 'Azure DevOps Migration'
 parent = 'Consulting Services'
-pageRef = '/services/consulting/azure-devops-migration'
+pageRef = "/capabilities/azure-devops-migration-services"
 weight = 10
 
 [[footer]]
-name = ' Business Agility Consultancy'
+name = 'DevOps Technology Consultancy'
 parent = 'Consulting Services'
-pageRef = '/services/consulting/business-agility-consultancy'
+pageRef = "/capabilities/devops-technology-consultancy"
 weight = 20
 
 # Mentoring services
 
 [[footer]]
 name = 'Mentoring Services'
-pageRef = "/services/mentoring"
+pageRef = "/capabilities/mentor-programs"
 weight = 20
 
 [[footer]]
 name = 'Product Development Mentoring Program'
 parent = 'Mentoring Services'
-pageRef = '/services/mentoring/product-development-mentoring-program'
+pageRef = "/capabilities/mentor-programs/product-development-mentoring-program"
 weight = 10
 
 [[footer]]
 name = 'Product Management Mentor Program'
 parent = 'Mentoring Services'
-pageRef = '/services/mentoring/product-management-mentor-program'
+pageRef = "/capabilities/mentor-programs/product-development-mentoring-program"
 weight = 20
