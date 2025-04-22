@@ -5,6 +5,8 @@ This is an example of a Hugo module that provides:
 - A partial template to render a site footer
 - Menu entries for a footer menu
 
+Requires Hugo v0.146.7 or later.
+
 ## Structure
 
 ```text
