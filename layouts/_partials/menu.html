@@ -9,7 +9,7 @@
   </nav>
 {{- end }}
 
-{{- define "partials/inline/menu/walk.html" }}
+{{- define "_partials/inline/menu/walk.html" }}
   {{- $page := .page }}
   {{- range .menuEntries }}
     {{- $attrs := dict "href" (or .URL (urls.JoinPath site.Params.parentSiteBaseURL .PageRef)) }}
